@@ -1,1 +1,2 @@
 # Even-based-Simulation-VS-Customer-based-Simulation
+This example of simulations will show us that even if we give the same input to two different simulation techniques, the result will be different because the event-based simulation models the queuing system as a single server serving one customer at a time, while the customer-based simulation models the queuing system as multiple customers arriving at a queue and being served in a first-come, first-served manner. Therefore, the two simulations may give different results for the same inputs.
